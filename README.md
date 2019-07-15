@@ -9,7 +9,7 @@ General Documentation
 
 ## git
 
-* [Shared git repository server with multiple users](https://github.com/lhelman/wiki/wiki/Shared-git-repository-server-with-multiple-users)
+* [Shared git repository server with multiple users](https://github.com/lhelman/MyDocs/wiki/Shared-git-repository-server-with-multiple-users)
 
 ## performance
 
