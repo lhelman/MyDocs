@@ -18,6 +18,10 @@ General Documentation
 * [Brendan Gregg's - perf-tools](https://github.com/brendangregg/perf-tools)
 * [Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
 
+## Observability
+
+* https://github.com/stripe/veneur
+
 ## GoLang
 
 * [Hoanh An Weekly Excersizes](https://www.getrevue.co/profile/hoanhan101) and [HHoanh An Study Guide](https://github.com/hoanhan101/ultimate-go) (This same user has interesting algorithms explained)
