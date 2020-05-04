@@ -26,3 +26,9 @@ General Documentation
 
 * [Hoanh An Weekly Excersizes](https://www.getrevue.co/profile/hoanhan101) and [HHoanh An Study Guide](https://github.com/hoanhan101/ultimate-go) (This same user has interesting algorithms explained)
 * [Exercism](https://exercism.io/)
+
+## Maker
+
+### Origami
+
+* https://www.compliantmechanisms.byu.edu/maker-resources
