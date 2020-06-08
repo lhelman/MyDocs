@@ -30,6 +30,11 @@ General Documentation
 * http://tmrts.com/go-patterns/
 * https://github.com/quii/learn-go-with-tests
 * https://golang.org/doc/effective_go.html
+* https://peter.bourgon.org/go-for-industrial-programming/
+* https://dave.cheney.net/2020/02/23/the-zen-of-go
+* https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html
+* https://peter.bourgon.org/go-best-practices-2016/
+* advanced testing: https://www.youtube.com/watch?v=8hQG7QlcLBk
 
 ## Maker
 
