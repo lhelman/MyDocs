@@ -25,10 +25,15 @@ General Documentation
 ## GoLang
 
 * [Hoanh An Weekly Excersizes](https://www.getrevue.co/profile/hoanhan101) and [HHoanh An Study Guide](https://github.com/hoanhan101/ultimate-go) (This same user has interesting algorithms explained)
-* [Exercism](https://exercism.io/)
+* https://exercism.io/
+* https://gophercises.com/
+* http://tmrts.com/go-patterns/
+* https://github.com/quii/learn-go-with-tests
+* https://golang.org/doc/effective_go.html
 
 ## Maker
 
 ### Origami
+
 
 * https://www.compliantmechanisms.byu.edu/maker-resources
