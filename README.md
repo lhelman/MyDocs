@@ -23,6 +23,7 @@ General Documentation
 
 * https://github.com/stripe/veneur
 * [graphite grafana and statsd gotchas](https://grafana.com/blog/2016/03/03/25-graphite-grafana-and-statsd-gotchas/)
+* [Brendan Gregg's 60 second analysis checklist](observability/60second-checklist.md)
 
 ## GoLang
 
